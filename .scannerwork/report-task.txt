@@ -1,6 +1,6 @@
 projectKey=CalcKey
 serverUrl=http://localhost:9000
-serverVersion=6.7.6.38781
+serverVersion=6.7.7.38951
 dashboardUrl=http://localhost:9000/dashboard/index/CalcKey
-ceTaskId=AWgyJzimuUQk97NtUJa_
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWgyJzimuUQk97NtUJa_
+ceTaskId=AWtLEUqzBbtT-w0o5F4C
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWtLEUqzBbtT-w0o5F4C
